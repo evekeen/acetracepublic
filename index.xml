@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ace Trace Video Editor</title>
-    <link>https://evekeen.github.io/acetracepublic/</link>
+    <link>http://www.acetrace.org/</link>
     <description>Recent content on Ace Trace Video Editor</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://evekeen.github.io/acetracepublic/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.acetrace.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android</title>
-      <link>https://evekeen.github.io/acetracepublic/android/</link>
+      <link>http://www.acetrace.org/android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evekeen.github.io/acetracepublic/android/</guid>
+      <guid>http://www.acetrace.org/android/</guid>
       <description>Android version is coming soon!</description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>https://evekeen.github.io/acetracepublic/terms/</link>
+      <link>http://www.acetrace.org/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evekeen.github.io/acetracepublic/terms/</guid>
+      <guid>http://www.acetrace.org/terms/</guid>
       <description>Please read these terms of service (&amp;ldquo;terms of service&amp;rdquo;, &amp;ldquo;terms&amp;rdquo;) carefully before using [website] website (“website”, &amp;ldquo;service&amp;rdquo;) operated by [name] (&amp;ldquo;us&amp;rdquo;, &amp;lsquo;we&amp;quot;, &amp;ldquo;our&amp;rdquo;).
 Conditions of use
 By using this website, you certify that you have read and reviewed this Agreement and that you agree to comply with its terms. If you do not want to be bound by the terms of this Agreement, you are advised to leave the website accordingly.</description>
