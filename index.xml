@@ -16,7 +16,16 @@
     </item>
     
     <item>
-      <title>Terms</title>
+      <title>Feedback</title>
+      <link>http://www.acetrace.org/feedback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acetrace.org/feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terms or Service</title>
       <link>http://www.acetrace.org/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
