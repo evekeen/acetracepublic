@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.acetrace.org/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.acetrace.org/terms/</loc>
+  </url>
+  
+  <url>
     <loc>http://www.acetrace.org/</loc>
   </url>
   
@@ -12,10 +20,6 @@
   
   <url>
     <loc>http://www.acetrace.org/feedback/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.acetrace.org/terms/</loc>
   </url>
   
 </urlset>
