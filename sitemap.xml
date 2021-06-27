@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.acetrace.org/android/</loc>
-  </url>
-  
-  <url>
     <loc>http://www.acetrace.org/faq/</loc>
   </url>
   
@@ -34,6 +30,10 @@
   
   <url>
     <loc>http://www.acetrace.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.acetrace.org/android/</loc>
   </url>
   
   <url>
