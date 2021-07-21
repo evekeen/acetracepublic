@@ -30,7 +30,7 @@ if (!doNotTrack) {
     
 <link rel="icon" type="image/png" href="/images/favicon.png" />
 <link href="https://fonts.googleapis.com/css?family=Open&#43;Sans:400,600" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="/css/style.min.4537399a78dc5c1f6f24a46bd5f966b2f3cd12842872a79b3d0ab12cd9196b33.css" integrity="sha256-RTc5mnjcXB9vJKRr1flmsvPNEoQocqebPQqxLNkZazM=">
+<link rel="stylesheet" type="text/css" href="/css/style.min.447c8eac2270c2d9f739e85d743154ccc57ba85456aeb52b0fbbddcc1da0db36.css" integrity="sha256-RHyOrCJwwtn3OehddDFUzMV7qFRWrrUrD7vdzB2g2zY=">
 <link rel="stylesheet" type="text/css" href="/css/icons.css">
 
   </head>
@@ -170,6 +170,44 @@ if (!doNotTrack) {
 </section>
     
 
+    
+    
+<section class="section is-medium">
+  &lt;<div class="container">
+    <div class="title-wrapper has-text-centered">
+      <h2 class="title is-2 is-spaced">How to use</h2>
+      <h3 class="subtitle is-5 is-muted"></h3>
+      <div class="divider is-centered"></div>
+    </div>
+
+    <div class="content-wrapper">
+      <div class="columns">
+         <div class="column is-6 is-offset-3">
+          <div id="ytplayer"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/player_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  
+  
+  var player;
+  function onYouTubePlayerAPIReady() {
+    player = new YT.Player('ytplayer', {
+      height: '360',
+      width: '640',
+      videoId: 'o2W9az0BSAw'
+    });
+  }
+</script>
     
 
     
