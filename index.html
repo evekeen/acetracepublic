@@ -173,7 +173,7 @@ if (!doNotTrack) {
     
     
 <section class="section is-medium">
-  &lt;<div class="container">
+  <div class="container">
     <div class="title-wrapper has-text-centered">
       <h2 class="title is-2 is-spaced">Learn more</h2>
       <h3 class="subtitle is-5 is-muted">Watch the video</h3>
@@ -196,14 +196,16 @@ if (!doNotTrack) {
   tag.src = "https://www.youtube.com/player_api";
   var firstScriptTag = document.getElementsByTagName('script')[0];
   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
+  
   
   
   var player;
   function onYouTubePlayerAPIReady() {
+    let width = Math.min(window.innerWidth, 1024);
+    let height = width * 0.75;
     player = new YT.Player('ytplayer', {
-      height: '768',
-      width: '1024',
+      height: height,
+      width: width,
       videoId: '5MvmBRF4o_Y'
     });
   }
