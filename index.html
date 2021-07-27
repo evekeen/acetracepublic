@@ -201,7 +201,7 @@ if (!doNotTrack) {
   
   var player;
   function onYouTubePlayerAPIReady() {
-    let width = Math.min(window.innerWidth, 1024);
+    let width = Math.min(window.innerWidth - 48, 1024);
     let height = width * 0.75;
     player = new YT.Player('ytplayer', {
       height: height,
