@@ -99,7 +99,7 @@ Can you match the line? You have a chance to compete with other disc golfers, tr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.acetrace.org/review/</guid>
-      <description>function getMobileOperatingSystem() { var userAgent = navigator.userAgent || navigator.vendor || window.opera; // Windows Phone must come first because its UA also contains &#34;Android&#34; if (/windows phone/i.test(userAgent)) { return &#34;Windows Phone&#34;; } if (/android/i.test(userAgent)) { return &#34;Android&#34;; } // iOS detection from: http://stackoverflow.com/a/9039885/177710 if (/iPad|iPhone|iPod/.test(userAgent) &amp;&amp; !window.MSStream) { return &#34;iOS&#34;; } return &#34;unknown&#34;; }  function DetectAndServe(){ let os = getMobileOperatingSystem(); if (os === &#34;Android&#34;) { window.location.href = &#34;https://play.google.com/store/apps/details?id=dev.ivkin.acetrace&#34;; } else if (os === &#34;</description>
+      <description>function getMobileOperatingSystem() { var userAgent = navigator.userAgent || navigator.vendor || window.opera; // Windows Phone must come first because its UA also contains &#34;Android&#34; if (/windows phone/i.test(userAgent)) { return &#34;Windows Phone&#34;; } if (/android/i.test(userAgent)) { return &#34;Android&#34;; } // iOS detection from: http://stackoverflow.com/a/9039885/177710 if (/iPad|iPhone|iPod/.test(userAgent) &amp;&amp; !window.MSStream) { return &#34;iOS&#34;; } return &#34;unknown&#34;; }  function DetectAndServe(){ let os = getMobileOperatingSystem(); if (os === &#34;Android&#34;) { window.location.href = &#34;https://play.google.com/store/apps/details?id=dev.ivkin.acetrace&amp;reviewId=0&#34;; } else if (os === &#34;</description>
     </item>
     
     <item>
