@@ -3,8 +3,8 @@
   <head>
     
 
-<meta property="og:title" content="" />
-<meta property="og:description" content="function getMobileOperatingSystem() { var userAgent = navigator.userAgent || navigator.vendor || window.opera; // Windows Phone must come first because its UA also contains &#34;Android&#34; if (/windows phone/i.test(userAgent)) { return &#34;Windows Phone&#34;; } if (/android/i.test(userAgent)) { return &#34;Android&#34;; } // iOS detection from: http://stackoverflow.com/a/9039885/177710 if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) { return &#34;iOS&#34;; } return &#34;unknown&#34;; }  function DetectAndServe(){ let os = getMobileOperatingSystem(); if (os == &#34;Android&#34;) { window.location.href = &#34;/feedback&#34;; } else if (os == &#34;" />
+<meta property="og:title" content="Review" />
+<meta property="og:description" content="function getMobileOperatingSystem() { var userAgent = navigator.userAgent || navigator.vendor || window.opera; // Windows Phone must come first because its UA also contains &#34;Android&#34; if (/windows phone/i.test(userAgent)) { return &#34;Windows Phone&#34;; } if (/android/i.test(userAgent)) { return &#34;Android&#34;; } // iOS detection from: http://stackoverflow.com/a/9039885/177710 if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) { return &#34;iOS&#34;; } return &#34;unknown&#34;; }  function DetectAndServe(){ let os = getMobileOperatingSystem(); if (os === &#34;Android&#34;) { window.location.href = &#34;https://play.google.com/store/apps/details?id=dev.ivkin.acetrace&#34;; } else if (os === &#34;" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://www.acetrace.org/review/" />
 
@@ -30,7 +30,7 @@
   <title>    
       
         
-          Ace Trace Video Editor
+          Review
             
     
     </title>
@@ -105,7 +105,7 @@
   <div class="container">
     <div class="columns">
       <div class="column is-centered-tablet-portrait">
-        <h1 class="title section-title"></h1>
+        <h1 class="title section-title">Review</h1>
         <h5 class="subtitle is-5 is-muted"></h5>
         <div class="divider"></div>
       </div>
@@ -136,12 +136,12 @@ function getMobileOperatingSystem() {
 <script>
 function DetectAndServe(){
     let os = getMobileOperatingSystem();
-    if (os == "Android") {
-        window.location.href = "/feedback"; 
-    } else if (os == "iOS") {
+    if (os === "Android") {
+        window.location.href = "https://play.google.com/store/apps/details?id=dev.ivkin.acetrace"; 
+    } else if (os === "iOS") {
         window.location.href = "https://apps.apple.com/us/app/ace-trace/id1570844427";    
     } else {
-        window.location.href = "/feedback";
+        window.location.href = "https://apps.apple.com/us/app/ace-trace/id1570844427";
     }
 }
 DetectAndServe()

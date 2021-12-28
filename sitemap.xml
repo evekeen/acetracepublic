@@ -16,10 +16,6 @@
   </url>
   
   <url>
-    <loc>http://www.acetrace.org/review/</loc>
-  </url>
-  
-  <url>
     <loc>http://www.acetrace.org/terms/</loc>
   </url>
   
@@ -33,11 +29,11 @@
   </url>
   
   <url>
-    <loc>http://www.acetrace.org/play/</loc>
+    <loc>http://www.acetrace.org/</loc>
   </url>
   
   <url>
-    <loc>http://www.acetrace.org/</loc>
+    <loc>http://www.acetrace.org/news/</loc>
   </url>
   
   <url>
@@ -46,6 +42,10 @@
   
   <url>
     <loc>http://www.acetrace.org/feedback/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.acetrace.org/review/</loc>
   </url>
   
   <url>
