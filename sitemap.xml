@@ -1,63 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://www.acetrace.org/faq/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/privacy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/privacy2/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/terms/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/terms2/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/community/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/maplehill/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/news/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/android/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/annotation-task/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/feedback/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/review/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.acetrace.org/subscriptionconfirmation/</loc>
   </url>
-  
 </urlset>
