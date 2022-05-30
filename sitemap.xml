@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.acetrace.org/releases/2-1/</loc>
+    <lastmod>2022-05-30T17:02:29-04:00</lastmod>
+  </url><url>
+    <loc>http://www.acetrace.org/</loc>
+    <lastmod>2022-05-30T17:02:29-04:00</lastmod>
+  </url><url>
+    <loc>http://www.acetrace.org/releases/</loc>
+    <lastmod>2022-05-30T17:02:29-04:00</lastmod>
+  </url><url>
     <loc>http://www.acetrace.org/faq/</loc>
   </url><url>
     <loc>http://www.acetrace.org/privacy/</loc>
@@ -17,8 +26,6 @@
     <loc>http://www.acetrace.org/community/</loc>
   </url><url>
     <loc>http://www.acetrace.org/maplehill/</loc>
-  </url><url>
-    <loc>http://www.acetrace.org/</loc>
   </url><url>
     <loc>http://www.acetrace.org/news/</loc>
   </url><url>

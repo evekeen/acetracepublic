@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Releases on Ace Trace Video Editor</title>
+    <link>http://www.acetrace.org/releases/</link>
+    <description>Recent content in Releases on Ace Trace Video Editor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 May 2022 17:02:29 -0400</lastBuildDate><atom:link href="http://www.acetrace.org/releases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ace Trace version 2.1</title>
+      <link>http://www.acetrace.org/releases/2-1/</link>
+      <pubDate>Mon, 30 May 2022 17:02:29 -0400</pubDate>
+      
+      <guid>http://www.acetrace.org/releases/2-1/</guid>
+      <description>2.1 New design  No plus button - just move the cursor to update the line Quicker access to the distance editor - the icon in the toolbar  2.0 Purchase options  Made sign-in optional Added video bundle purchase options Added free videos  New features  Allowed to only select certain photos for access Fixed zooming in the editor Allowed to add points outside of the video viewport Added the width gradient setting Redesigned settings and preferences panels  </description>
+    </item>
+    
+  </channel>
+</rss>
