@@ -106,7 +106,20 @@
 
 
 
-	<section class="section section-light-grey is-medium">
+	<script>
+  function insertUserId() {
+    const value = document.getElementById('message').value;
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const userId = urlParams.get('userId');
+    if (userId) {
+      document.getElementById('message').value = value + '\nuserId: ' + userId;
+    }
+    return false;
+  }
+</script>
+
+<section class="section section-light-grey is-medium">
   <div class="container">
     <div class="title-wrapper has-text-centered">
       <h2 class="title is-2 is-spaced">Drop us a line or two </h2>
@@ -126,10 +139,10 @@
                 <input class="input is-medium" type="email" name="email" placeholder="Enter your email address">
               </div>
               <div class="column is-12">
-                <textarea class="textarea" rows="3" name="message" placeholder="Write something..." required></textarea>
+                <textarea id="message" class="textarea" rows="3" name="message" placeholder="Write something..." required></textarea>
               </div>
               <div class="form-footer has-text-centered mt-10">
-                <button class="button cta is-large primary-btn raised is-clear">Send Message</button>
+                <button class="button cta is-large primary-btn raised is-clear" onclick="insertUserId()">Send Message</button>
               </div>
             </div>
           </form>
