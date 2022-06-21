@@ -13,7 +13,7 @@
       <pubDate>Mon, 30 May 2022 17:02:29 -0400</pubDate>
       
       <guid>http://www.acetrace.org/releases/2-1/</guid>
-      <description>2.3  Added double-tap gesture to reset zoom/cursor position Bug fixes  2.2  Bug fixes  2.1 New design  No plus button - just move the cursor to update the line Quicker access to the distance editor - the icon in the toolbar  2.0 Purchase options  Made sign-in optional Added video bundle purchase options Added free videos  New features  Allowed to only select certain photos for access Fixed zooming in the editor Allowed to add points outside of the video viewport Added the width gradient setting Redesigned settings and preferences panels  </description>
+      <description>2.7 Redesigned the preview screen 2.5 Made cursor and the line transparent during drag&amp;rsquo;n&amp;rsquo;drop and video scrolling 2.3 Added double-tap gesture to reset zoom/cursor position Bug fixes 2.1 New design No plus button - just move the cursor to update the line Quicker access to the distance editor - the icon in the toolbar 2.0 Purchase options Made sign-in optional Added video bundle purchase options Added free videos New features Allowed to only select certain photos for access Fixed zooming in the editor Allowed to add points outside of the video viewport Added the width gradient setting Redesigned settings and preferences panels </description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@ Can Ace Trace do it automatically? We&amp;rsquo;re working on it right now, we h
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.acetrace.org/privacy/</guid>
-      <description>Privacy policy When you first use Ace Trace, we ask you for access to your photo library so we can read your videos and modify them. Video data is extremely sensitive, and we believe it’s important for you to know and understand what we do with that data.
+      <description>Privacy policy When you first use Ace Trace™, we ask you for access to your photo library so we can read your videos and modify them. Video data is extremely sensitive, and we believe it’s important for you to know and understand what we do with that data.
 Upon exporting of your edited video we will ask you if you&amp;rsquo;d like to share it with us. We firmly believe that your data belongs to you.</description>
     </item>
     
@@ -53,7 +53,7 @@ We firmly believe that your data belongs to you. As such, Ace Trace does not col
       
       <guid>http://www.acetrace.org/terms/</guid>
       <description>END USER LICENSE AGREEMENT Last updated April 21, 2022
-Ace Trace is licensed to You (End-User) by Ivkin LLC, a Massachusetts limited liability company dba &amp;ldquo;Ace Trace App&amp;rdquo;, for use only under the terms of this License Agreement.
+Ace Trace™ is licensed to You (End-User) by Ivkin LLC, a Massachusetts limited liability company dba &amp;ldquo;Ace Trace App&amp;rdquo;, for use only under the terms of this License Agreement.
 By downloading the Application from the Apple AppStore or Google Play store, and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement and that You accept this License Agreement.</description>
     </item>
     
@@ -72,7 +72,7 @@ By downloading the Application from the Apple AppStore or Google Play store, and
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.acetrace.org/tutorial/</guid>
-      <description>  function DetectAndServe() { window.location.href = &#34;https://www.instagram.com/p/CeZSAYIp5eJ&#34;; }    </description>
+      <description> </description>
     </item>
     
     <item>
@@ -97,30 +97,12 @@ Can you match the line? You have a chance to compete with other disc golfers, tr
     </item>
     
     <item>
-      <title>Android</title>
-      <link>http://www.acetrace.org/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.acetrace.org/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android News</title>
-      <link>http://www.acetrace.org/android/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.acetrace.org/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Automatic Tracking</title>
       <link>http://www.acetrace.org/annotation-task/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.acetrace.org/annotation-task/</guid>
-      <description>Cannot wait for the automatic tracking feature to come alive? Have free time and a computer? You’re patient and careful for details?  We would like to offer you an opportunity to significantly help the project. As a reward you will get a lifetime Premium Ace Trace subscription free of charge or the money equivalent.
+      <description>Cannot wait for the automatic tracking feature to come alive? Have free time and a computer? You’re patient and careful for details? We would like to offer you an opportunity to significantly help the project. As a reward you will get a lifetime Premium Ace Trace subscription free of charge or the money equivalent.
 Cannot help with automatic tracking, but still want to be a part of the Ace Trace community?</description>
     </item>
     
@@ -148,7 +130,7 @@ Cannot help with automatic tracking, but still want to be a part of the Ace Trac
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.acetrace.org/review/</guid>
-      <description>function getMobileOperatingSystem() { var userAgent = navigator.userAgent || navigator.vendor || window.opera; // Windows Phone must come first because its UA also contains &#34;Android&#34; if (/windows phone/i.test(userAgent)) { return &#34;Windows Phone&#34;; } if (/android/i.test(userAgent)) { return &#34;Android&#34;; } // iOS detection from: http://stackoverflow.com/a/9039885/177710 if (/iPad|iPhone|iPod/.test(userAgent) &amp;&amp; !window.MSStream) { return &#34;iOS&#34;; } return &#34;unknown&#34;; }  function DetectAndServe(){ let os = getMobileOperatingSystem(); if (os === &#34;Android&#34;) { window.location.href = &#34;https://play.google.com/store/apps/details?id=dev.ivkin.acetrace&amp;reviewId=0&#34;; } else if (os === &#34;</description>
+      <description>&lt;!DOCTYPE html&gt; </description>
     </item>
     
     <item>
