@@ -18,16 +18,6 @@
     
     <item>
       <title></title>
-      <link>http://www.acetrace.org/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.acetrace.org/faq/</guid>
-      <description>F.A.Q. How do I add a line? In manual mode you can mark a few points, and the app will create a smooth line using then. Find the object with the cursor in the editor, then tag a [+] plus button to add the point. Scroll video using the scrollbar below the editor.
-Can Ace Trace do it automatically? We&amp;rsquo;re working on it right now, we have some good results already.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://www.acetrace.org/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -84,6 +74,16 @@ By downloading the Application from the Apple AppStore or Google Play store, and
       <description>Chat with us We welcome you to join our Telegram Chat or Discord Chat for the fastest communication. Please, share your ideas and ask questions! We&amp;rsquo;re always ready to listen to your feedback. It&amp;rsquo;s also the best place for you to pioneer some of our experimental features.
 Leave feedback Another way to communicate your feedback is using the form or by email
 Help us make it better No matter what your skills are, if you want to help, we will be always glad if you joined our humble team.</description>
+    </item>
+    
+    <item>
+      <title>Ace Trace F.A.Q.</title>
+      <link>http://www.acetrace.org/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acetrace.org/faq/</guid>
+      <description>F.A.Q. How do I add a line? In manual mode you can mark a few points, and the app will create a smooth line using then. Find the object with the cursor in the editor, then tag a [+] plus button to add the point. Scroll video using the scrollbar below the editor.
+Can Ace Trace do it automatically? We&amp;rsquo;re working on it right now, we have some good results already.</description>
     </item>
     
     <item>
