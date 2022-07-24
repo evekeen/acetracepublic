@@ -71,7 +71,7 @@ By downloading the Application from the Apple AppStore or Google Play store, and
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.acetrace.org/community/</guid>
-      <description>Chat with us We welcome you to join our Telegram Chat or Discord Chat for the fastest communication. Please, share your ideas and ask questions! We&amp;rsquo;re always ready to listen to your feedback. It&amp;rsquo;s also the best place for you to pioneer some of our experimental features.
+      <description>Chat with us We welcome you to join our Discord Chat for the fastest communication. Please, share your ideas and ask questions! We&amp;rsquo;re always ready to listen to your feedback. It&amp;rsquo;s also the best place for you to pioneer some of our experimental features.
 Leave feedback Another way to communicate your feedback is using the form or by email
 Help us make it better No matter what your skills are, if you want to help, we will be always glad if you joined our humble team.</description>
     </item>
@@ -82,8 +82,8 @@ Help us make it better No matter what your skills are, if you want to help, we w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.acetrace.org/faq/</guid>
-      <description>F.A.Q. How do I add a line? In manual mode you can mark a few points, and the app will create a smooth line using then. Find the object with the cursor in the editor, then tag a [+] plus button to add the point. Scroll video using the scrollbar below the editor.
-Can Ace Trace do it automatically? We&amp;rsquo;re working on it right now, we have some good results already.</description>
+      <description>F.A.Q. How do I add a line? Free Curve - manual In manual mode you can mark a few points, and the app will create a smooth line using then.
+Scroll the video to find the object Select the object by moving the cursor. You can zoom-in with 2 fingers Scroll the video again and mark the object by moving the cursor Add 4 to 10 key points through the flight Tap Preview to preview the result Disc Golf - automatic Scroll to the beginning of the flight Select a disc by the rectangular frame Tap the Start Tracking button Golf Scroll the video to find the start of the flight Select the ball by moving the cursor Adjust the landing point by moving the yellow ring Adjust the shape of the trajectory by moving control points Change the flight duration by resizing the bar in the timeline Adjust the acceleration - make the opaque line end match the current frame ball position Can Ace Trace do it automatically?</description>
     </item>
     
     <item>

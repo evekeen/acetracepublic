@@ -5,7 +5,7 @@
     
 
 <meta property="og:title" content="Ace Trace Video Editor" />
-<meta property="og:description" content="Ace Trace helps golf players visualize a trajectory in a video by drawing a line following a ball/disc." />
+<meta property="og:description" content="Ace Trace helps golf/disc-golf players to turn their videos into highlights by adding a colorful line showing the trajectory." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://www.acetrace.org/" />
 
@@ -23,7 +23,7 @@
 </script>
 
 
-<meta name="description" content="Ace Trace helps golf players visualize a trajectory in a video by drawing a line following a ball/disc." />
+<meta name="description" content="Ace Trace helps golf/disc-golf players to turn their videos into highlights by adding a colorful line showing the trajectory." />
 <meta name="keywords" content=" ace, trace, golf, tracer, shot, shot tracer, disc golf, video, tracer app, app ">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -106,8 +106,8 @@
           Highlight your game
         </h1>
         
-        <h2 class="subtitle is-5 is-muted">
-          Ace Trace is a video editor. It allows you to visualize a trajectory in a video by tracing a path.
+        <h2 class="subtitle is-5 is-muted main-description">
+          Turn your videos into highlights by adding a colorful line showing the trajectory.
         </h2>
         
         <p>
@@ -130,6 +130,11 @@
   </div>
 </div>
 
+<style>
+  .main-description {
+    line-height: 28px;
+  }
+</style>
   
 <div class="hero-foot mb-20">
   <div class="container">
@@ -182,72 +187,7 @@
     
 
     
-    
-<section class="section section3 is-medium">
-  <div class="container">
-    <div class="columns">
-      <div class="column is-10 is-offset-1">
-        <div class="has-text-centered">
-          <img class="pushed-image" src="/images/maplehill.png">
-        </div>
-      </div>
-    </div>
 
-    <div class="title-wrapper has-text-centered">
-      <h2 class="title is-2">Maple Hill challenge</h2>
-      <h3 class="subtitle is-5 is-muted">We started the challenge! Find out how you can participate</h3>
-    </div>
-
-    <p class="has-text-centered mt-20">
-      <a class="button cta is-large rounded secondary-btn raised" href="/maplehill">
-        Open
-      </a>
-    </p>
-  </div>
-</section>
-
-    
-
-    
-    
-<section class="section is-medium">
-  <div class="container">
-    <div class="title-wrapper has-text-centered">
-      <h2 class="title is-2 is-spaced">Learn more</h2>
-      <h3 class="subtitle is-5 is-muted">Watch the video</h3>
-      <div class="divider is-centered"></div>
-    </div>
-
-    <div class="content-wrapper">
-      <div class="columns">
-         <div class="column is-6 is-offset-1">
-          <div id="ytplayer"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<script>
-  
-  var tag = document.createElement('script');
-  tag.src = "https://www.youtube.com/player_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-  
-  
-  
-  var player;
-  function onYouTubePlayerAPIReady() {
-    let width = Math.min(window.innerWidth - 48, 1024);
-    let height = width * 0.75;
-    player = new YT.Player('ytplayer', {
-      height: height,
-      width: width,
-      videoId: '5MvmBRF4o_Y'
-    });
-  }
-</script>
     
 
     
