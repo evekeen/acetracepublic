@@ -1,12 +1,12 @@
-<svg width="102" height="131" viewBox="0 0 102 131" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="39" y="25" width="52" height="70" fill="url(#pattern0)"/>
-<path d="M74 119C8.2269 66.1146 18.5458 46.9644 31.9268 44" stroke="url(#paint0_linear_2816_40)" stroke-width="10" stroke-linecap="round"/>
-<rect x="3.00003" y="3" width="96" height="125" rx="17" stroke="white" stroke-width="6"/>
+<svg width="108" height="131" viewBox="0 0 108 131" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="57.5838" y="14.3788" width="52" height="70" transform="rotate(54.8256 57.5838 14.3788)" fill="url(#pattern0)"/>
+<path d="M62.5 107.5C107 58.5 86.0557 34.2806 74.2186 31" stroke="url(#paint0_linear_2816_40)" stroke-width="10" stroke-linecap="round"/>
+<rect x="9.00004" y="3" width="96" height="125" rx="17" stroke="white" stroke-width="6"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_2816_40" transform="translate(0 -0.0019305) scale(0.027027 0.0200772)"/>
 </pattern>
-<linearGradient id="paint0_linear_2816_40" x1="48" y1="44" x2="48" y2="119" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_2816_40" x1="60" y1="31" x2="60" y2="114" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FF9049"/>
 <stop offset="1" stop-color="#FFC959" stop-opacity="0.27"/>
 </linearGradient>
