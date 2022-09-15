@@ -152,12 +152,34 @@ Cannot help with automatic tracking, but still want to be a part of the Ace Trac
     </item>
     
     <item>
+      <title>How to build and use a DyLib in iOS app</title>
+      <link>http://www.acetrace.org/c-library-in-ios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acetrace.org/c-library-in-ios/</guid>
+      <description>How to build and use a DyLib in iOS app I&amp;rsquo;ve used library nlopt for minimization problem
+You need to build it for iOS. Use toolchain for cmake: https://github.com/leetal/ios-cmake cmake -DCMAKE_INSTALL_PREFIX=install .. -G Xcode -T buildsystem=1 -DCMAKE_TOOLCHAIN_FILE=../ios.toolchain.cmake -DPLATFORM=OS64 cmake --build . --config Release After cmake with the toolchain open generated project in XCode and fix signing profiles Create the framework export OUT_DIR=&amp;#34;/Users/ivkin/my&amp;#34; export LIB_NAME=&amp;#34;nlopt&amp;#34; export SOURCE_INFO_PLIST=&amp;#34;Info.plist&amp;#34; export DYLIBS=&amp;#34;build/Release-iphoneos/libnlopt.0.11.1.dylib&amp;#34; export DY_FILE=&amp;#34;libnlopt.0.dylib&amp;#34; # set OUT_DIR and LIB_NAME FW_PATH=&amp;#34;$OUT_DIR/$LIB_NAME.</description>
+    </item>
+    
+    <item>
       <title>Review</title>
       <link>http://www.acetrace.org/review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.acetrace.org/review/</guid>
       <description>&lt;!DOCTYPE html&gt; </description>
+    </item>
+    
+    <item>
+      <title>Shot tracing apps review</title>
+      <link>http://www.acetrace.org/tracer-comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.acetrace.org/tracer-comparison/</guid>
+      <description>There are a few different apps available on the AppStore for golf ball tracking
+Ace Trace Shot Tracer / Golf Shot Tracer - exactly the same app, but two different names The Golf Tracer Let&amp;rsquo;s see how they compare to each other.
+Tracing The main feature of all tracers is to highlight the golf ball trajectory by tracing its flight path and drawing a line.
+Automatic tracking Some of the tracers offer automatical option that allows to trace the ball trajectory automatically.</description>
     </item>
     
     <item>
