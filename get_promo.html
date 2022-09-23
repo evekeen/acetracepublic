@@ -26,10 +26,13 @@ function getMobileOperatingSystem() {
 <script>
 async function DetectAndServe(){
     let os = getMobileOperatingSystem();
+    document.write("os: " + os + "<br/>");
     if (os === "Android") {
         window.location.href = "https://play.google.com/store/apps/details?id=dev.ivkin.acetrace";
     } else if (os === "iOS") {
+        document.write("iOS<br/>");
         const url = await fetch('https://us-central1-followflight-f0c00.cloudfunctions.net/nextPromo');
+        document.write("url: url<br/>");
         window.location.href = await url.text();
     } else {
         window.location.href = "https://apps.apple.com/us/app/ace-trace/id1570844427";
