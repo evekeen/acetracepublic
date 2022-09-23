@@ -29,7 +29,7 @@ async function DetectAndServe(){
     if (os === "Android") {
         window.location.href = "https://play.google.com/store/apps/details?id=dev.ivkin.acetrace";
     } else if (os === "iOS") {
-        const url = await fetch('http://localhost:5001/test-dc9d1/us-central1/nextPromo');
+        const url = await fetch('https://us-central1-followflight-f0c00.cloudfunctions.net/nextPromo');
         window.location.href = await url.text();
     } else {
         window.location.href = "https://apps.apple.com/us/app/ace-trace/id1570844427";
