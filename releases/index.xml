@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Releases on Ace Trace - golf shot tracing app</title>
+    <title>Releases on Ace Trace - golf shot tracker</title>
     <link>http://www.acetrace.org/releases/</link>
-    <description>Recent content in Releases on Ace Trace - golf shot tracing app</description>
+    <description>Recent content in Releases on Ace Trace - golf shot tracker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 May 2022 17:02:29 -0400</lastBuildDate><atom:link href="http://www.acetrace.org/releases/index.xml" rel="self" type="application/rss+xml" />
