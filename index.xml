@@ -99,15 +99,6 @@ By downloading the Application from the Apple AppStore or Google Play store, and
     
     <item>
       <title></title>
-      <link>https://acetrace.app/tutorial-golf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://acetrace.app/tutorial-golf/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://acetrace.app/tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -144,6 +135,17 @@ Help us make it better No matter what your skills are, if you want to help, we w
       <guid>https://acetrace.app/faq/</guid>
       <description>F.A.Q. How do I trace a line? Free Curve - manual editing You can mark a few points in manual mode, and the app will create a smooth line using them.
 Scroll the video to find the object Select the object by moving the cursor. You can zoom in with 2 fingers Scroll the video again and mark the object by moving the cursor Add 4 to 10 key points throughout the flight Tap Preview to preview the result Disc Golf - automatic tracking Scroll to the beginning of the flight Select a disc by the rectangular frame Tap the Start Tracking button Trace Golf Scroll the video to find the start of the flight Select the ball by moving the cursor Adjust the landing point by moving the yellow ring Adjust the shape of the trajectory by moving control points Change the flight duration by resizing the bar in the timeline Adjust the acceleration - make the opaque line end match the current frame ball position Can Ace Trace track it automatically?</description>
+    </item>
+    
+    <item>
+      <title>Ace Trace golf tutorial</title>
+      <link>https://acetrace.app/tutorial-golf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acetrace.app/tutorial-golf/</guid>
+      <description>Automatic tracking with Ace Trace It works with ball golf drive videos filmed with the camera behind the ball, and the ball moving away from the camera.
+Make sure the ball is fully visible in the video, so our cutting edge ML algorithm can detect it.
+Start by opening a video Scroll the timeline to the beginning of the flight, try to be precise Select the ball with the cursor Wait for the automatic tracking to complete - it&amp;rsquo;s just a few seconds Adjust the landing point by moving the cursor Change the flight duration by moving the marker in the timeline Tap [Preview] button to see the result You can save your video by tapping the [Save] icon on the preview screen Manual tracking If for some reasons the automatic tracking doesn&amp;rsquo;t produce the best results, you can always use the manual tracking mode.</description>
     </item>
     
     <item>
