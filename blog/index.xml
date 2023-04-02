@@ -6,7 +6,21 @@
     <description>Recent content in Blogs on Ace Trace - golf shot tracker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Feb 2023 11:41:39 -0500</lastBuildDate><atom:link href="https://acetrace.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://acetrace.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatic Tracking ML Algorithm</title>
+      <link>https://acetrace.app/blog/disc-and-golf-ball-automatic-tracking-feature/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://acetrace.app/blog/disc-and-golf-ball-automatic-tracking-feature/</guid>
+      
+        <description>Golf has always been a game of precision, and with modern technology, golfers can now enhance their performance to new levels.
+Our latest feature, automatic tracking for golf balls and discs in videos, is made possible by our state-of-the-art machine learning (ML) tracking algorithm.
+Challenges Unfortunately, standard ML detection approaches are not well-suited for detecting and tracking small objects like golf balls.
+Due to the limitations of deep learning neural networks, it is challenging to extract characteristics about objects that are only a few pixels in diameter.</description>
+      
+    </item>
+    
     <item>
       <title>Benefits of shot tracking apps</title>
       <link>https://acetrace.app/blog/benefits-of-shot-tracking-apps/</link>
