@@ -176,10 +176,11 @@ Can you match the line? You have a chance to compete with other disc golfers, tr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://acetrace.app/android/</guid>
-      <description>The good news - the Ace Trace app is available for Android. Currently, the Free Curve editing mode is fully supported. You can start tracing your lines immediately, and there is one free video for everyone.
+      <description>The good news - the Ace Trace app is available for Android. Currently, the Free Curve and Golf editing modes are fully supported. You can start tracing your lines immediately.
 Check it out!
-While we are actively developing new features, they are most likely to first appear on the iOS. However, we are maintaining and continually improving the Android app as well.
-Stay tuned.</description>
+While we are actively developing new features!
+Stay tuned.
+Limitations of the app on the Android platform Android Only specific (standard) video dimensions work due to Android video codec limitations Video stabilization is slightly slower on Android due to the inability to read a video file in several parallel threads, unlike iOS.</description>
     </item>
     
     <item>
@@ -228,6 +229,15 @@ Desktop version The desktop version is under development. If you are interested 
       
       <guid>https://acetrace.app/shot-tracing-apps-review/</guid>
       <description> </description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://acetrace.app/golf-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acetrace.app/golf-review/</guid>
+      <description>&lt;!DOCTYPE html&gt; </description>
     </item>
     
     <item>
