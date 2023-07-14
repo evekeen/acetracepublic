@@ -6,7 +6,19 @@
     <description>Recent content in Blogs on Ace Trace - mobile golf shot tracker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://acetrace.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 17:52:42 -0400</lastBuildDate><atom:link href="https://acetrace.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial Acetrace Golf and Disc Golf</title>
+      <link>https://acetrace.app/blog/tutorial-acetrace-golf-and-disc-golf/</link>
+      <pubDate>Fri, 14 Jul 2023 17:52:42 -0400</pubDate>
+      
+      <guid>https://acetrace.app/blog/tutorial-acetrace-golf-and-disc-golf/</guid>
+      
+        <description>Table of Contents Introduction Free Curve Importing a video Manual tracing Trace Golf Importing a video Automatic tracking Manual tracking Line Settings Distance Counter Introduction Ace Trace is a powerful yet simple tool to trace trajectories on your mobile device and create video highlights like in professional tournament coverage of your favorite sport.
+You can trace any kind of object; however, the app is optimized mostly for two main activities - golf and disc golf.</description>
+      
+    </item>
+    
     <item>
       <title>Automatic Tracking ML Algorithm</title>
       <link>https://acetrace.app/blog/disc-and-golf-ball-automatic-tracking-feature/</link>
