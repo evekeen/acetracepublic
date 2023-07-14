@@ -4,8 +4,8 @@
     
 
 <meta property="og:title" content="Ace Trace golf and disc golf tutorial" />
-<meta property="og:description" content="There are two main modes in the app. The first one is Free Curve - it primarily used for disc golf shots, although it can be used for every kind of trajectory - you can trace baseball or even your dog. The second mode is Trace Golf and it should only be used for ball golf shots.
-Free Curve Let&rsquo;s start with the Free Curve mode. The most common use case for it is to track a disc in a disc golf video." />
+<meta property="og:description" content="Table of Contents Introduction Free Curve Importing a video Manual tracing Trace Golf Importing a video Automatic tracking Manual tracking Line Settings Distance Counter Introduction Ace Trace is a powerful yet simple tool to trace trajectories on your mobile device and create video highlights like in professional tournament coverage of your favorite sport.
+You can trace any kind of object; however, the app is optimized mostly for two main activities - golf and disc golf." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://acetrace.app/tutorial-acetrace-golf-and-disc-golf/" /><meta property="og:image" content="https://acetrace.app/images/ace-trace-thumbnail.png"/><meta property="article:section" content="" />
 
@@ -158,50 +158,111 @@ Free Curve Let&rsquo;s start with the Free Curve mode. The most common use case 
     mixpanel.identify(getUserId());
     mixpanel.track('tutorial-full');
 </script>
-<p>There are two main modes in the app. The first one is <strong>Free Curve</strong> - it primarily used for disc golf shots, although it can be used for every kind of trajectory - you can trace baseball or even your dog.
-The second mode is <strong>Trace Golf</strong> and it should only be used for ball golf shots.</p>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#free-curve">Free Curve</a>
+<ul>
+<li><a href="#importing-a-video">Importing a video</a></li>
+<li><a href="#manual-tracing">Manual tracing</a></li>
+</ul>
+</li>
+<li><a href="#trace-golf">Trace Golf</a>
+<ul>
+<li><a href="#importing-a-video">Importing a video</a></li>
+<li><a href="#automatic-tracking">Automatic tracking</a></li>
+<li><a href="#manual-tracking">Manual tracking</a></li>
+</ul>
+</li>
+<li><a href="#line-settings">Line Settings</a></li>
+<li><a href="#distance-counter">Distance Counter</a></li>
+</ul>
+<h1 id="introduction">Introduction</h1>
+<p>Ace Trace is a powerful yet simple tool to trace trajectories on your mobile device and create video highlights like in professional tournament coverage of your favorite sport.<br>
+You can trace any kind of object; however, the app is optimized mostly for two main activities - golf and disc golf.<br>
+There are two main modes in the app. The first one is <strong>Free Curve</strong> - it is primarily used for disc golf shots, although it can be used for every kind of trajectory - you can trace baseball or even your dog.
+The second mode is <strong>Trace Golf</strong>, and it should only be used for ball golf shots.</p>
 <p><img src="/images/illustrations/tutorial/start-screen-modes.jpg" alt=""></p>
-<h2 id="free-curve">Free Curve</h2>
+<h1 id="free-curve">Free Curve</h1>
 <p>Let&rsquo;s start with the Free Curve mode. The most common use case for it is to track a disc in a <strong>disc golf</strong> video.<br>
 This mode can be used for variety of cases from tracking your putt in ball golf, tracing a ball flight in baseball or even tracking your significant other falling from a tree.<br>
 The flexibility of Free Curve allows you to track any kind of trajectory, but it also means that you have to do some work to get the best results.</p>
-<h3 id="importing-a-video">Importing a video</h3>
+<h2 id="importing-a-video">Importing a video</h2>
 <p>When you tap on the <strong>Free Curve</strong> button, you will be presented with a screen where you can select a video to work with. It takes a few seconds to load a video, and for the best results we highly recommend to only use short videos from 10 to 30 seconds long.
 Anything longer will take a long time to process - Ace Trace analyzes camera movement and zoom-in/zoom-out in the video, which takes significant computational time.
-If you still prefer to work with longer videos, you can disable stabilization in the preferences, which will speed up the processing time; however, the camera movement won&rsquo;t be tracked, so this option should only be chosen for static shots filmed from a tripod.</p>
-<h3 id="manual-tracing">Manual tracing</h3>
+If you still prefer to work with longer videos, you can disable <strong>stabilization</strong> in the preferences, which will speed up the processing time; however, the camera movement won&rsquo;t be tracked, so this option should only be chosen for static shots filmed from a tripod.</p>
+<h2 id="manual-tracing">Manual tracing</h2>
 <p>Once the video is loaded, you will see a frame from the video and a timeline at the bottom.</p>
 <h3 id="1-start-your-trajectory">1. Start your trajectory</h3>
 <p>You can move the timeline to select the frame you want to work with.
 Using the timeline select a first frame where your trajectory begins, for example, the frame where you release the disc.<br>
 Now move the cursor to the place where the object is located. It will immediately add a key point to the timeline - you will see a small yellow oval on top of it.</p>
-<p><img src="/images/illustrations/tutorial/free-curve-manual-first-point.gif" alt=""></p>
+<video muted autoplay loop defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" width="400">
+  <source src="/images/illustrations/tutorial/free-curve-manual-first-point.mp4">
+</video>
 <h3 id="2-add-another-point">2. Add another point</h3>
 <p>Let&rsquo;s scroll the timeline a few frames forward and move the cursor to the place where the object is located again. You will see another key point added to the timeline.
 You will also see a line appearing on the screen - it simply connects the two key points for now.</p>
-<p><img src="/images/illustrations/tutorial/free-curve-manual-second-point.gif" alt=""></p>
+<video muted autoplay loop defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" width="400">
+  <source src="/images/illustrations/tutorial/free-curve-manual-second-point.mp4">
+</video>
 <h3 id="3-complete-the-rest-of-the-trajectory---draw-the-rest-of-the-owl">3. Complete the rest of the trajectory - draw the rest of the owl</h3>
 <p><img src="/images/illustrations/tutorial/owl.jpg" alt=""><br>
 Now if we repeat this process for a few more frames, we will get a trajectory that connects all the key points together into a smooth curve.</p>
-<p><img src="/images/illustrations/tutorial/free-curve-manual-rest-of-point.gif" alt=""></p>
+<video muted autoplay loop defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" width="400">
+  <source src="/images/illustrations/tutorial/free-curve-manual-rest-of-points.mp4">
+</video>
 <p>If we scroll our video back and forth, we will see that the curve is interpolated between the key points, and sometimes it might not be perfect.<br>
-We can add more points when needed to make the curve more accurate.
-<img src="" alt=""></p>
-<h2 id="trace-golf">Trace Golf</h2>
+We can add more points when needed to make the curve more accurate.</p>
+<h3 id="4-preview-the-result">4. Preview the result</h3>
+<p>Now let&rsquo;s tap the <strong>Preview</strong> button to see the result. It will take a few seconds to render the video.<br>
+You can save it to your camera roll by tapping the <strong>Save</strong> button.</p>
+<video muted autoplay loop defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" width="400">
+  <source src="/images/illustrations/tutorial/free-curve-manual-result.mp4" type="video/mp4">
+</video>
+<h1 id="trace-golf">Trace Golf</h1>
 <p>Let&rsquo;s talk about ball golf drives!</p>
-<h3 id="automatic-tracking">Automatic tracking</h3>
+<h2 id="importing-a-video-1">Importing a video</h2>
+<p>The same as for the <strong>Free Curve</strong> mode, you will be presented with a screen where you can select a video to work with.
+It takes a few seconds to load a video, and for the best results we highly recommend to only use short videos from 10 to 30 seconds long.
+Ace Trace analyzes camera movements, and it might take significant  time.
+If you still prefer to work with longer videos, you can disable <strong>stabilization</strong> in the preferences; however, the camera movement won&rsquo;t be tracked, so this option should only be chosen for static shots filmed from a tripod.</p>
+<p>After the video has been loaded, you will see a frame from the video and a timeline at the bottom.</p>
+<h2 id="automatic-tracking">Automatic tracking</h2>
 <p>It works with ball golf drive videos filmed with the camera behind the ball, and the ball moving away from the camera.<br>
 Make sure the ball is fully visible in the video, so our cutting edge ML algorithm can detect it.</p>
-<ol>
-<li>Start by opening a video</li>
-<li>Scroll the timeline to the beginning of the flight, try to be precise</li>
-<li>Select the ball with the cursor</li>
-<li>Wait for the automatic tracking to complete - it&rsquo;s just a few seconds</li>
-<li>Adjust the landing point by moving the cursor</li>
-<li>Change the flight duration by moving the marker in the timeline</li>
-<li>Tap <strong>[Preview]</strong> button to see the result</li>
-<li>You can save your video by tapping the <strong>[Save]</strong> icon on the preview screen</li>
-</ol>
+<h3 id="1-start-your-trajectory-1">1. Start your trajectory</h3>
+<p>You can move the timeline to select the frame you want to work with.
+Using the timeline select a first frame where your trajectory begins, precisely the frame where you hit the ball, or the first frame when it&rsquo;s in the air.<br>
+Now move the cursor to locate the ball in the image. It will start the automatic tracking wizard as soon as you select the ball.</p>
+<video muted autoplay loop defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" width="400">
+  <source src="/images/illustrations/tutorial/golf-automatic-first-point.mp4" type="video/mp4">
+</video>
+<h3 id="3-run-the-automatic-tracking">3. Run the automatic tracking</h3>
+<p>Now you can go ahead and tap that <strong>[Start Tracking]</strong> button. If the ball is visible in the frame, it will start tracking it automatically.
+Wait for the automatic tracking to complete - it&rsquo;s just a few seconds.<br>
+Sometimes the ball goes away very far, and it&rsquo;s not visible in the frame anymore. In this case, the Ace Trace algorithm will predict the ball trajectory by the initial positions and speed.
+This sophisticated process solves the physics equations to predict the trajectory based on the physical forces applied to the golf ball during the flight.</p>
+<video muted autoplay loop defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" width="400">
+  <source src="/images/illustrations/tutorial/golf-automatic-tracking.mp4" type="video/mp4">
+</video>
+<h3 id="4-adjust-the-flight-duration">4. Adjust the flight duration</h3>
+<p>While Ace Trace roughly predicts how long the ball will fly, it&rsquo;s not always accurate.
+You should adjust the flight duration to match the actual flight time by resizing the blue bar in the timeline.</p>
+<video muted autoplay loop defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" width="400">
+  <source src="/images/illustrations/tutorial/golf-automatic-adjust-duration.mp4" type="video/mp4">
+</video>
+<h3 id="5-adjust-the-landing-point">5. Adjust the landing point</h3>
+<p>You should move the cursor in the image to locate the landing point of the ball. The trajectory will be adjusted accordingly.</p>
+<video muted autoplay loop defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" width="400">
+  <source src="/images/illustrations/tutorial/golf-automatic-adjust-landing.mp4" type="video/mp4">
+</video>
+<h3 id="6-preview-the-result">6. Preview the result</h3>
+<p>Now let&rsquo;s tap the <strong>Preview</strong> button to see the result. It will take a few seconds to render the video.</p>
+<video muted autoplay loop defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" width="400">
+  <source src="/images/illustrations/tutorial/golf-automatic-result.mp4" type="video/mp4">
+</video>
+<p>You can save it to your camera roll by tapping the <strong>Save</strong> button.</p>
 <h2 id="manual-tracking">Manual tracking</h2>
 <p>If for some reasons the automatic tracking doesn&rsquo;t produce the best results, you can always use the manual tracking mode.<br>
 To switch to the manual mode you can tap <img src="/images/robot-icon.png" alt="Manual tracking icon"> icon in the toolbar.</p>
@@ -215,6 +276,14 @@ To switch to the manual mode you can tap <img src="/images/robot-icon.png" alt="
 <li>Tap <strong>[Preview]</strong> button to see the result</li>
 <li>You can save your video by tapping the <strong>[Save]</strong> icon on the preview screen</li>
 </ol>
+<h1 id="line-settings">Line settings</h1>
+<p>You can change the line color, width and other parameters in the settings.</p>
+<video muted autoplay loop defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" width="400">
+  <source src="/images/illustrations/tutorial/line-settings.mp4" type="video/mp4">
+</video>
+<h1 id="distance-counter">Distance counter</h1>
+<p>Let&rsquo;s add distance label to our shot. It will display on top of the line and move with the flying object.
+Tap on the <strong>[Ruler]</strong> icon in the toolbar to open the distance editor dialog.</p>
 
     </div>
   </div>
