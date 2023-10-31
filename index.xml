@@ -90,18 +90,6 @@ Automatic tracking Some tracers offer the automatic option that automatically al
     
     <item>
       <title></title>
-      <link>https://acetrace.app/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://acetrace.app/privacy/</guid>
-      <description>Privacy policy Last updated December 28, 2022
-This privacy notice for Ivkin LLC (&amp;quot;Company,&amp;quot; &amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;), describes how and why we might collect, store, use, and/or share (&amp;quot;process&amp;quot;) your information when you use our services (&amp;quot;Services&amp;quot;), such as when you:
-Visit our website at https://acetrace.app, or any website of ours that links to this privacy notice
-Download and use our mobile application (Ace Trace), or any other application of ours that links to this privacy notice</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://acetrace.app/privacy2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -117,17 +105,6 @@ We firmly believe that your data belongs to you. As such, Ace Trace does not col
       
       <guid>https://acetrace.app/schedule-call/</guid>
       <description> </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://acetrace.app/terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://acetrace.app/terms/</guid>
-      <description>END USER LICENSE AGREEMENT Last updated December 28, 2022
-Ace Trace™ is licensed to You (End-User) by Ivkin LLC, a Massachusetts limited liability company dba &amp;ldquo;Ace Trace App&amp;rdquo;, for use only under the terms of this License Agreement.
-By downloading the Application from the Apple AppStore or Google Play store, and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement and that You accept this License Agreement.</description>
     </item>
     
     <item>
@@ -167,6 +144,17 @@ View this post on Instagram A post shared by Ace Trace (@acetrace.</description>
       <description>Chat with us We welcome you to join our Discord Chat for the fastest communication. Please, share your ideas and ask questions! We&amp;rsquo;re always ready to listen to your feedback. It&amp;rsquo;s also the best place for you to pioneer some of our experimental features.
 Leave feedback Another way to communicate your feedback is using the form or by email
 Help us make it better No matter what your skills are, if you want to help, we will be always glad if you joined our humble team.</description>
+    </item>
+    
+    <item>
+      <title>Ace Trace end user license agreement</title>
+      <link>https://acetrace.app/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acetrace.app/terms/</guid>
+      <description>Last updated December 28, 2022
+Ace Trace™ is licensed to You (End-User) by Ivkin LLC, a Massachusetts limited liability company dba &amp;ldquo;Ace Trace App&amp;rdquo;, for use only under the terms of this License Agreement.
+By downloading the Application from the Apple AppStore or Google Play store, and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement and that You accept this License Agreement.</description>
     </item>
     
     <item>
@@ -220,6 +208,18 @@ Check it out!
 While we are actively developing new features!
 Stay tuned.
 Limitations of the app on the Android platform Android Only specific (standard) video dimensions work due to Android video codec limitations Video stabilization is slightly slower on Android due to the inability to read a video file in several parallel threads, unlike iOS.</description>
+    </item>
+    
+    <item>
+      <title>Ace Trace privacy policy</title>
+      <link>https://acetrace.app/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acetrace.app/privacy/</guid>
+      <description>Last updated December 28, 2022
+This privacy notice for Ivkin LLC (&amp;quot;Company,&amp;quot; &amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;), describes how and why we might collect, store, use, and/or share (&amp;quot;process&amp;quot;) your information when you use our services (&amp;quot;Services&amp;quot;), such as when you:
+Visit our website at https://acetrace.app, or any website of ours that links to this privacy notice
+Download and use our mobile application (Ace Trace), or any other application of ours that links to this privacy notice</description>
     </item>
     
     <item>

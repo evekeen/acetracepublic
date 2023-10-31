@@ -14,8 +14,7 @@
       
       <guid>https://acetrace.app/blog/tutorial-ios-version-7/</guid>
       
-        <description>New tutorial coming soon Ace Trace has been completely redesigned for iOS in version 7.0. The new tutorial is on its way. In the meantime, you can use the old tutorial.
-Stay tuned!</description>
+        <description>Ace Trace Tutorial for iOS - coming soon</description>
       
     </item>
     
@@ -26,8 +25,7 @@ Stay tuned!</description>
       
       <guid>https://acetrace.app/blog/exploring-the-advent-of-golf-visualization-and-its-benefits-for-high-performance-gameplay/</guid>
       
-        <description>Golf is 10% movement and 90% psychological, according to renowned golfer Arnold Palmer: the cumulative duration of the golfer&#39;s swings and ball strikes over the 72 holes amounts to around seven minutes and 30 seconds, resulting in a remaining duration of 15 hours, 52 minutes, and 30 seconds designated for cognitive processes and decision-making.
-Yet, what does this 90% entail? How does one harness the mind&#39;s immense potential to improve their game on the green?</description>
+        <description>How golf shot visualization improves your game, why it works, and how to integrate it into your golfing technique</description>
       
     </item>
     
@@ -38,8 +36,7 @@ Yet, what does this 90% entail? How does one harness the mind&#39;s immense pote
       
       <guid>https://acetrace.app/blog/tutorial-acetrace-golf-and-disc-golf/</guid>
       
-        <description>Table of Contents Introduction Free Curve Importing a video Manual tracing Trace Golf Importing a video Automatic tracking Manual tracking Line Settings Distance Counter Color segments Introduction Ace Trace is a powerful yet simple tool to trace trajectories on your mobile device and create video highlights like in professional tournament coverage of your favorite sport.
-You can trace any kind of object; however, the app is optimized mostly for two main activities - golf and disc golf.</description>
+        <description>Ace Trace golf and disc golf tutorial</description>
       
     </item>
     
@@ -50,10 +47,7 @@ You can trace any kind of object; however, the app is optimized mostly for two m
       
       <guid>https://acetrace.app/blog/disc-and-golf-ball-automatic-tracking-feature/</guid>
       
-        <description>Golf has always been a precision sport, and thanks to contemporary technology, players can now raise the bar on their abilities.
-Our cutting-edge machine learning (ML) tracking algorithm enables our newest feature, automatic tracking for discs and golf balls in movies.
-Challenges Unfortunately, standard ML detection approaches are not well-suited for detecting and tracking small objects like golf balls.
-Due to the limitations of deep learning neural networks, it is challenging to extract characteristics about objects that are only a few pixels in diameter.</description>
+        <description>ML Algorithm for tracking golf balls in videos</description>
       
     </item>
     
@@ -64,7 +58,7 @@ Due to the limitations of deep learning neural networks, it is challenging to ex
       
       <guid>https://acetrace.app/blog/benefits-of-shot-tracking-apps/</guid>
       
-        <description>Golf ball tracking technology has revolutionized the way golfers analyze their shots and improve their game. With the ability to track the ball&amp;rsquo;s trajectory, speed, and spin in real-time, golfers can now gain a deeper understanding of their shots and make the necessary adjustments to take their game to the next level. One of the key benefits of using a golf ball tracking app is the ability to save and analyze data on previous shots.</description>
+        <description>Benefits of shot tracking apps for improving your golf game</description>
       
     </item>
     
@@ -75,10 +69,7 @@ Due to the limitations of deep learning neural networks, it is challenging to ex
       
       <guid>https://acetrace.app/blog/shot-tracing-apps-review/</guid>
       
-        <description>There are a few different apps available on the AppStore for golf ball tracking
-Ace Trace Shot Tracer / Golf Shot Tracer - the same app, but two different names The Golf Tracer Let&amp;rsquo;s see how they compare to each other.
-Tracing All tracers&amp;rsquo; main feature is highlighting the golf ball&amp;rsquo;s trajectory by tracing its flight path and drawing a line.
-Automatic tracking Some tracers offer the automatic option that automatically allows tracing the ball trajectory.</description>
+        <description>Comparison of several mobile golf shot tracing apps including Shot Tracer, Golf Shot Tracker and Ace Trace</description>
       
     </item>
     
