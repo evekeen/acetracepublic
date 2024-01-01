@@ -5,7 +5,7 @@
     
 
 <meta property="og:title" content="Ace Trace - mobile golf shot tracer" />
-<meta property="og:description" content="Ace Trace turns your golf videos into colorful highlights by drawing the trace on your phone. Golf shot tracer." />
+<meta property="og:description" content="Ace Trace offers advanced shot tracer technology to enhance your golf video production. Perfect for professional golfers and video creators." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://acetrace.app/" /><meta property="og:image" content="https://acetrace.app/images/acetrace-thumbnail.jpg"/>
 
@@ -15,7 +15,7 @@
 <meta name="twitter:image" content="https://acetrace.app/images/acetrace-thumbnail.jpg"/>
 
 <meta name="twitter:title" content="Ace Trace - mobile golf shot tracer"/>
-<meta name="twitter:description" content="Ace Trace turns your golf videos into colorful highlights by drawing the trace on your phone. Golf shot tracer."/>
+<meta name="twitter:description" content="Ace Trace offers advanced shot tracer technology to enhance your golf video production. Perfect for professional golfers and video creators."/>
 
 
 
@@ -29,7 +29,7 @@
 </script>
 
 
-<meta name="description" content="Ace Trace turns your golf videos into colorful highlights by drawing the trace on your phone. Golf shot tracer." />
+<meta name="description" content="Ace Trace offers advanced shot tracer technology to enhance your golf video production. Perfect for professional golfers and video creators." />
 
 <meta name="keywords" content=" shot tracer, shot tracker, golf shot tracker, ball tracker, ball golf tracing, golf ball tracker, ball tracer, ball tracker golf, golf tracer, ball tracer, golf shots, ace, trace, golf, tracer, tracker, shot, disc golf, video, tracer app, trace app, app, tracer shot, ace app download, ace app, ace tracking, app ace, app disc mobile, phone shot tracker, mobile shot tracker, iOS tracer, Android tracer ">
 
@@ -130,38 +130,84 @@
 </nav>
 
   
-<div class="hero-video-top">
+
+<style>
+  .video-container {
+    position: relative;
+    top: -60px;
+    width: 100%;  
+     
+  }
+
+  .responsive-video {
+    width: 100%;
+    height: auto;  
+    border-radius: 30px;  
+    overflow: hidden;  
+  }
+  .overlay-text {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;  
+    text-align: center;
+    z-index: 10;
+  }
+
+   
+  .overlay-text {
+    background-color: rgba(0, 0, 0, 0.5);  
+    padding: 10px;
+    border-radius: 20px;
+  }
+
+  .cta-button {
+    position: absolute;
+    bottom: 10%;
+    left: 80%;
+    transform: translateX(-50%);
+    z-index: 2;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  }
+</style>
+
+<div class="video-container">
+  <div class="overlay-text">
+    <div class="container">
+      <h1 class="title is-12">Transform your golf videos with Ace Trace shot tracer</h1>
+      <h2 class="subtitle is-12 muted">Experience the best in golf shot tracing technology, designed for professional golf video creators.</h2>
+    </div>
+  </div>
   <video muted autoplay loop defaultMuted playsinline oncontextmenu="return false;" preload="auto"
-         poster="/images/hero/preview.jpg">
+         poster="/images/hero/preview.jpg" class="responsive-video">
     <source src="/images/hero/preview.mp4" type="video/mp4">
   </video>
+  <a class="button cta cta-button rounded primary-btn raised" href="appstore">
+    Get Started
+  </a>
 </div>
-<div class="hero-body">
+<div>
   <div class="container">
+    <h2 class="subtitle is-spaced is-12">
+      Make professional video content with the ease of a mobile app
+    </h2>
     <div class="columns is-vcentered">
-      <div class="column is-5 landing-caption">
-        <h1 class="title is-5 is-bold is-spaced">
-          Mobile golf shot tracer
-        </h1>
-
-        
-        <h2 class="subtitle is-5 is-muted main-description">
-          Trace golf shots on a phone - make your videos stand out
-        </h2>
-        
-        <p>
-          <a class="button cta rounded primary-btn raised" href="appstore">
-            Get Started
-          </a>
-        </p>
-      </div>
+      <div id="trace-counter"></div>
       <div class="column is-5">
         <figure class="image is-4by3">
           <img src="/images/illustrations/trajectory.gif" alt="Description">
         </figure>
       </div>
     </div>
-    <div id="trace-counter"></div>
+    <div class="columns is-vcentered">
+      <div class="column is-5">
+        <a class="button cta rounded primary-btn raised" href="appstore">
+          Get Started
+        </a>
+      </div>
+    </div>
   </div>
 </div>
 
