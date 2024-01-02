@@ -132,44 +132,79 @@
   
 
 <style>
+   
   .video-container {
     position: relative;
-    top: -60px;
-    width: 100%;  
-     
+    overflow: hidden;  
   }
 
   .responsive-video {
-    width: 100%;
+    width: 100%;  
     height: auto;  
-    border-radius: 30px;  
-    overflow: hidden;  
+    min-height: 400px;  
+    object-fit: cover;  
   }
+
   .overlay-text {
     position: absolute;
-    top: 20%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     color: white;
-    font-size: 20px;  
+    font-size: 20px;
     text-align: center;
     z-index: 10;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
   }
 
    
-  .overlay-text {
-    background-color: rgba(0, 0, 0, 0.5);  
-    padding: 10px;
-    border-radius: 20px;
+  @media (max-width: 767px) {
+    .responsive-video {
+      min-height: calc(100vh - 100px);  
+    }
+
+    .overlay-text {
+      font-size: 16px;
+    }
+
+    .overlay-text h1 {
+      font-size: 24px;
+    }
+
+    .cta-button {
+      position: absolute;
+      bottom: 10%;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 2;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    }
   }
 
-  .cta-button {
-    position: absolute;
-    bottom: 10%;
-    left: 80%;
-    transform: translateX(-50%);
-    z-index: 2;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+   
+  @media (min-width: 768px) {
+    .video-container {
+      width: 100%;  
+    }
+
+    .responsive-video {
+      border-radius: 30px;  
+    }
+
+     
+    .cta-button {
+      position: absolute;
+      bottom: 25%;
+      left: 80%;
+      transform: translateX(-50%);
+      z-index: 2;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    }
+
+    .overlay-text {
+      top: 10%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      border-radius: 20px;
+    }
   }
 </style>
 
@@ -188,26 +223,32 @@
     Get Started
   </a>
 </div>
-<div>
+<div class="hero-body">
   <div class="container">
-    <h2 class="subtitle is-spaced is-12">
-      Make professional video content with the ease of a mobile app
-    </h2>
     <div class="columns is-vcentered">
-      <div id="trace-counter"></div>
+      <div class="column is-5 landing-caption">
+        <h1 class="title is-5 is-bold is-spaced">
+          Mobile golf shot tracer
+        </h1>
+
+        
+        <h2 class="subtitle is-5 is-muted main-description">
+          Trace golf shots on a phone - make your videos stand out
+        </h2>
+        
+        <p>
+          <a class="button cta rounded primary-btn raised" href="appstore">
+            Start Tracing
+          </a>
+        </p>
+      </div>
       <div class="column is-5">
         <figure class="image is-4by3">
           <img src="/images/illustrations/trajectory.gif" alt="Description">
         </figure>
       </div>
     </div>
-    <div class="columns is-vcentered">
-      <div class="column is-5">
-        <a class="button cta rounded primary-btn raised" href="appstore">
-          Get Started
-        </a>
-      </div>
-    </div>
+    <div id="trace-counter"></div>
   </div>
 </div>
 
