@@ -6,7 +6,19 @@
     <description>Recent content on Ace Trace - mobile golf shot tracker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Oct 2023 11:03:42 +0200</lastBuildDate><atom:link href="https://acetrace.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://acetrace.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What tools can I use to trace golf shots?</title>
+      <link>https://acetrace.app/blog/best-tools-for-golf-shot-tracing/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://acetrace.app/blog/best-tools-for-golf-shot-tracing/</guid>
+      <description>What tools can I use to trace golf shots? Whether you&amp;rsquo;re a golf enthusiast looking to analyze your shots or create engaging content, there are several options available for tracing golf shots. Let&amp;rsquo;s explore them from most accessible to most professional.
+Mobile Apps Ace Trace The most accessible and user-friendly option for shot tracing. Ace Trace offers professional-quality shot tracing right on your mobile device.
+Key Features:
+Automatic ball tracking Works with handheld footage Handles shaky videos Custom 3D trajectory options Distance measurements Customizable trace styles Available for both iOS and Android Cost: Free to try, subscription available for unlimited exports</description>
+    </item>
+    
     <item>
       <title>Ace Trace Tutorial for iOS</title>
       <link>https://acetrace.app/blog/tutorial-ios-version-7/</link>
@@ -268,6 +280,16 @@ Desktop version The desktop version is under development. If you are interested 
       
       <guid>https://acetrace.app/shot-tracing-apps-review/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>How to trace a golf or disc golf shot</title>
+      <link>https://acetrace.app/how-to/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acetrace.app/how-to/</guid>
+      <description>How to trace a golf or disc golf shot Getting Started How to Film Your Shot Before opening the app, make sure you have a good video of your shot:
+Camera Position Stand 5-10 feet behind the player Film from your hand - no tripod needed Film from any angle that gives you the best view Any device orientation works - portrait or landscape Video Tips Film in good lighting conditions Keep videos under 30 seconds for best results Start recording just before the shot Stop a few seconds after the ball/disc lands Feel free to zoom in/out during the shot Don&amp;rsquo;t worry about camera shake - the app can trace shots even in shaky videos Install Ace Trace Visit the App Store for iOS devices Install the app on your device Open Ace Trace First Time Setup When you first open the app, select your sport: Golf - for tracing golf ball shots Disc Golf - for tracing disc golf throws Take a moment to familiarize yourself with the interface Your previous projects will be listed on the screen To create your first project: Tap the &amp;quot;+ Start New Project&amp;quot; button in the center of the screen Select a video from your camera roll Keep videos under 30 seconds for best results The app will process your video (this may take a few moments) How to Trace a Golf Shot Import your video (keep it under 30 seconds for best results) Scroll the timeline to find the exact frame where the ball starts moving Use two fingers to zoom in, then select the ball with the cursor Choose your preferred tracing method: Automatic tracking - Automatic ball tracking (recommended) Custom 3D - Advanced 3D trajectory customization Simple Bezier - Basic manual curve adjustment For Automatic tracking: Wait for automatic tracking to complete Adjust the landing point by moving the cursor Fine-tune the flight duration using the timeline marker Tap [Preview] to see your traced shot How to Trace a Disc Golf Shot Manual Tracking (Default) Import your disc golf video Find the frame where your throw begins Mark the disc location with the cursor Scroll forward and mark 4-10 key points along the flight path The app will create a smooth curve through your points Preview and adjust points if needed Automatic Tracking After importing your video, tap the automatic tracking button Select the disc in the starting frame Wait for tracking to complete Adjust the curve if needed Preview the result How to Customize Your Trace Line Appearance Tap the settings icon Choose from various customization options: Line color (single or gradient) Line width Flying particles effect Color segments along the path Adding Distance Counter Tap the [Ruler] icon in the toolbar Configure distance display settings: Units (yards/meters) Font size and color Position on screen Creating Color Segments Tap the color segment tool in the toolbar Select different colors for different parts of the flight Adjust segment positions along the trajectory Preview to check the result Common Issues and Solutions Video Processing Keep videos under 30 seconds for best results The app can handle shaky footage and camera movement Close other apps for better performance Tracking Accuracy Ensure good lighting in your video Keep the object visible throughout the shot Use zoom feature for precise point placement Add more control points for complex trajectories Export Issues Check available storage space Ensure active subscription for unlimited exports Use &amp;ldquo;Restore Purchase&amp;rdquo; if needed Try closing and reopening the app For more detailed tutorials, check our iOS tutorial or Android tutorial.</description>
     </item>
     
     <item>
